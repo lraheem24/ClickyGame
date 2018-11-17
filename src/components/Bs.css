@@ -1,0 +1,51 @@
+
+body {
+    background-color: #a2b9bc;
+}
+
+
+.navbar {
+    background-color: #6b5b95;
+    color: aquamarine;
+    width: 100%;
+}
+
+.brand {
+    color: aliceblue;
+}
+
+.navbar ul {
+    width: 100%;
+}
+
+.navbar li {
+    text-decoration: none;
+    display: inline-block;
+    width: 33%;
+    padding: 30px;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+
+.navbar li a {
+    color: #fff;
+    font-size: 30px;
+}
+
+.jumbotron {
+    text-align: center;
+    background-color: #878f99;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.card {
+    display: inline-block;
+    margin: 20px;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
